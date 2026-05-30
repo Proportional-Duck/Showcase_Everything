@@ -12,6 +12,35 @@ The goal is simple: to explore as many languages as possible under one roof — 
 
 ---
 
+<div align="center">
+
+## 🛠️ Languages & Technologies
+
+<!-- Tier 1 — skillicons.dev (large branded icons) -->
+
+[![Skill Icons](https://skillicons.dev/icons?i=html,css,js,ts,php,python,ruby,java,kotlin,scala,clojure,go,rust,c,cpp,cs,dart,swift,lua,perl,r,julia,haskell,ocaml,fsharp,erlang,elixir,nim,zig,docker,terraform,bash,powershell,solidity,graphql,nix,vim,coffeescript,crystal,fortran&perline=10)](https://skillicons.dev)
+
+<!-- Tier 2 — shields.io (languages not in skillicons) -->
+
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white)
+![Elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly%20x86-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL%20%2F%20OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-E94F37?style=for-the-badge&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-005CA7?style=for-the-badge&logoColor=white)
+![AWK](https://img.shields.io/badge/AWK-333333?style=for-the-badge&logo=gnu&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![HiveQL](https://img.shields.io/badge/HiveQL-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Protobuf](https://img.shields.io/badge/Protocol%20Buffers-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch%20Script-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
+</div>
+
+---
+
 ## 📂 Language Index
 
 ### Systems & Compiled Languages
