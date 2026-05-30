@@ -1,0 +1,29 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. POLYGLOT-SHOWCASE.
+       AUTHOR. DEVELOPER.
+
+       ENVIRONMENT DIVISION.
+       CONFIGURATION SECTION.
+
+       DATA DIVISION.
+       WORKING-STORAGE SECTION.
+       01 WS-COUNTER    PIC 9(3) VALUE 0.
+       01 WS-RESULT     PIC 9(10) VALUE 0.
+       01 WS-NAME       PIC A(30) VALUE 'COBOL Developer'.
+       01 WS-GREETING   PIC A(50).
+
+       PROCEDURE DIVISION.
+       MAIN-PARA.
+           DISPLAY "Hello from COBOL!"
+           MOVE FUNCTION CONCATENATE("Welcome, ", WS-NAME, "!")
+               TO WS-GREETING
+           DISPLAY WS-GREETING
+
+           MOVE 0 TO WS-RESULT
+           PERFORM VARYING WS-COUNTER FROM 1 BY 1
+               UNTIL WS-COUNTER > 10
+               ADD WS-COUNTER TO WS-RESULT
+           END-PERFORM
+
+           DISPLAY "Sum of 1 to 10: " WS-RESULT
+           STOP RUN.

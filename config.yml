@@ -1,0 +1,13 @@
+name: polyglot-showcase
+version: 1.0.0
+description: A repository showcasing multiple languages for GitHub stats.
+author: Developer
+services:
+  web:
+    image: nginx:latest
+    ports:
+      - "8080:80"
+  db:
+    image: postgres:13
+    environment:
+      POSTGRES_PASSWORD: secret
